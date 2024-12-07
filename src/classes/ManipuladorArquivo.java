@@ -5,10 +5,7 @@
  */
 package classes;
 
-/**
- *
- * @author Victor
- */
+
 import classes.Cliente;
 import classes.Motoboy;
 import classes.Produto;
