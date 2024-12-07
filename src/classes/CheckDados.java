@@ -19,10 +19,6 @@ import static classes.ManipuladorArquivo.stringToMotoboy;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- *
- * @author Eduardo
- */
 
 /*
 Boa parte dessas funções precisa desse código auxiliar para que o erro nunca ocorra
